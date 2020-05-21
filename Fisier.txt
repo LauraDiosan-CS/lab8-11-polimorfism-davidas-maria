@@ -1,0 +1,7 @@
+RM natii 24.aug.2019 50 5
+RM elt 20.aug.2018 205 100
+RF imente 4.aug.2019 50 10 1
+RF uni 5.sept.2017 7000 5 1
+RM im 30.apr.2016 600 5
+RF imentatie  6 600 10
+RF chelt 30.ian.2019 543 5 10
